@@ -1,46 +1,40 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Ro Williams rospect21@vt.edu, Alex Ablozhey alexablozhey@vt.edu Computer Engineering Student
 
 ## Mentor
-MENTOR NAME HERE
+Eddie Pritchard
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project is a motorcycle push to start RFID system which will be placed in a motorcycle already owned. The push to start system will use RFID to verify that the owner is near the motorcycle, and then will allow a button be used to start the motorcycle. This system will be wired in place of the existing ignition module on the motorcycle.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+This project requires skills pertaining to microcontroller programming and PCB design. This project will also require skills in design by constraint as the project will have to interface where the existing ignition module already exists (constraints are the physical size and electrical wiring interface). This project allows students to learn about radio frequency transmitters and will teach fundementals in radio frequency tranmission via arduino rfid module.
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Create a block diagram of the system.
+Research the ignition wiring and determine how it works.
+Source an arduino and rfid module and create an rfid demonstation.
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+PCB design, microcontroller on existing pcb (arduino) or stm32(or other) microcontroller on custom pcb?
 
-## Design Misc
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Will create joint project timeline.
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+10$-50$ for ordering PCB and arduino rfid module. arduino already sourced.
 
-## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Useful Links
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
